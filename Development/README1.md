@@ -1,3 +1,6 @@
+
+Https://medium.com/@arfaali/9-python-libraries-that-made-me-question-how-i-ever-coded-without-them-bc2e37dc1a1e
+
 This article by Arfa Ali highlights nine Python libraries focused on automation, productivity, and simplifying complex tasks. Given your current projects like localSq, Shop Oahu, and Phoenix Valley, several of these—particularly those involving mapping, data validation, and scheduling—could be very useful.
 Here is a summary of the 9 libraries mentioned:
 1. Folium (Mapping)
